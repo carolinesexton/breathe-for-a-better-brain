@@ -201,6 +201,17 @@ h4 {
 .video2 {
     float: inherit;
 }
+.container12 {
+    width: 100%;
+    height: 70px;
+    background-color: #65bff3;
+    font-size: 30px;
+    color: #ffffff;
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
 /* footer */
 .footer {
     position: relative;
@@ -269,14 +280,15 @@ input[type=submit]:hover {
   }  
 .container9 {
     border-radius: 5px;
-    background-color: #3B5998;
+    background-color: #58b1da;
     color: #ffffff;
     padding: 20px;
+    margin-top: -40px;
 } 
 /* about page */
 .container11 {
     display: inline-block;
-    background-color: #55ACEE;
+    background-color: #719cbd;
     font-size: 18px;
     color: #ffffff;
     width: 100%;
