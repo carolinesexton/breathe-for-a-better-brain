@@ -5,7 +5,7 @@ body {
     width: 100%;
     height: 80px;
     background-color: #126ca0;
-} 
+}
 .box1{
     display: inline-block;
     background-color: #126ca0;
@@ -246,7 +246,7 @@ h4 {
     
 }
 /* contact page */
-.input[type=text], select, textarea {
+input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
     border: 1px solid #ccc;
@@ -256,27 +256,31 @@ h4 {
     margin-bottom: 16px;
     resize: vertical;
 }
-.input[type=submit] {
-    background-color: #04AA6D;
+input[type=submit] {
+    background-color: #55ACEE;
     color: white;
     padding: 12px 20px;
     border: none;
-    border-radius: 4px;
+    border-radius: 6px;
     cursor: pointer;
 }
-.input[type=submit]:hover {
-    background-color: #45a049;
-}
+input[type=submit]:hover {
+    background-color: #06f18b;
+  }  
 .container9 {
     border-radius: 5px;
-    background-color: #f2f2f2;
+    background-color: #3B5998;
+    color: #ffffff;
     padding: 20px;
 } 
 /* about page */
-.container6 {
+.container11 {
     display: inline-block;
+    background-color: #55ACEE;
+    font-size: 18px;
+    color: #ffffff;
     width: 100%;
-    height: 800px;
+    height: 600px;
     padding-left: 20px;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -288,9 +292,9 @@ h4 {
 .paragraph8 {
     float: left;
     float: inherit;
-    margin-left: 20%;
-    
+    margin-left: 15%;
 }
+
 
 
 
